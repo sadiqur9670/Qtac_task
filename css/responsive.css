@@ -1,0 +1,638 @@
+/* Desktop Layout: 1400px. */
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+ 
+ 
+}
+
+/* Medium Layout: 1200px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+    section.Cheackout-section {
+    width: 56%;
+}
+    section.my-card {
+    width: 43%;
+}
+.product-right p.old, .product-right p.new span{
+    font-size: 12px;
+}
+.product-right img.delete {
+    padding-left: 10px;
+}
+
+}
+
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+.body-section section.side-menu-left {
+    width: 35%;
+}
+.menu-body {
+    width: 65%;
+}
+.body-section section.menu-section {
+    height: 120px;
+}
+section.full-body {
+    display: inline-block;
+    width: 100%;
+}
+.time-detail {
+    display: block;
+}
+.body-section .menu-section .row {
+    display: inline-block;
+}
+.time-detail p {
+    background: #FFE4D9;
+    padding: 5px 10px;
+    width: 98px;
+}
+section.Cheackout-section {
+    margin-bottom: 20px;
+    width: 100%;
+}
+section.Cheackout-section .title {
+    font-size: 20px;
+}
+section.Cheackout-section .address-bar, section.Cheackout-section .time-bar {
+    font-size: 12px;
+    padding: 5px 7px;
+}
+section.Cheackout-section .address-detail, section.Cheackout-section .time-detail {
+    font-size: 11px;
+}
+select#day, select#time {
+    font-size: 10px;
+    padding: 5px 5px;
+    width: 118px;
+}
+.time-detail div {
+    margin: 10px 0;
+    margin-right: 10px;
+}
+.time button {
+    font-size: 12px;
+}
+.time .charge-top, .charge-bottom {
+    display: flex;
+    font-size: 11px;
+}
+section.Cheackout-section .delivery-charge img {
+    width: 8px;
+    height: 8px;
+}
+section.my-card {
+    padding: 0 0 0 0px;
+    width: 100%;
+}
+section.my-card .title {
+    font-size: 14px;
+}
+section.my-card .title span {
+    font-size: 12px;
+}
+.product-left img {
+    margin-right: 7px;
+    width: 50px;
+}
+.product-right img.delete {
+    padding-left: 5px;
+}
+.product-details p span {
+    font-size: 14px;
+}
+.product-right p.old {
+    font-size: 14px;
+}
+.offer-code p {
+    font-size: 14px;
+}
+.total {
+    font-size: 14px;
+}
+}
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+head-top-area .header-top-left p.phone, .header-top-right a {
+    font-size: 12px;
+}
+.header-top-right .how {
+    padding: 0 5px;
+}
+.header-top-right .faq {
+    padding: 0 5px;
+}
+.body-section section.side-menu-left {
+    width: 35%;
+}
+.body-section section.side-menu-left .logo img.sub-img {
+    width: 16px;
+}
+.body-section section.side-menu-left .logo img.logo {
+    width: 70px;
+    height: 70px;
+}
+.menu-body {
+    width: 64%;
+}
+.body-section section.menu-section {
+    height: 150px;
+
+}
+.body-section .menu-section .row {
+}
+.body-section .menu-section ul {
+    display: inline-block;
+}
+.body-section .nav li {
+    padding: 0 7px;
+}
+.body-section .nav a {
+    font-size: 9px;
+}
+.body-section .search-bar input[type="text"] {
+    display: none;
+}
+.search-bar i.fas.fa-search {
+    padding: 12px;
+    margin-left: 0;
+    border-radius: 50%;
+}
+.body-section section.search-section {
+    align-items: center;
+}
+.body-section .location img{
+    width: 12px;
+}
+.body-section select#location {
+    padding: 0 0 0 0px;
+}
+.body-section .search-bar {
+    width: 50%;
+}
+.body-section .card {
+    width: 50%;
+}
+section.full-body {
+    display: inline-block;
+    width: 100%;
+}
+.time-detail {
+    display: block;
+}
+.time-detail p {
+    background: #FFE4D9;
+    padding: 5px 10px;
+    width: 98px;
+}
+section.Cheackout-section {
+    margin-bottom: 20px;
+    width: 100%;
+}
+section.Cheackout-section .title {
+    font-size: 20px;
+}
+section.Cheackout-section .address-bar, section.Cheackout-section .time-bar {
+    font-size: 12px;
+    padding: 5px 7px;
+}
+section.Cheackout-section .address-detail, section.Cheackout-section .time-detail {
+    font-size: 11px;
+}
+select#day, select#time {
+    font-size: 10px;
+    padding: 5px 5px;
+    width: 118px;
+}
+.time-detail div {
+    margin: 10px 0;
+    margin-right: 10px;
+}
+.time button {
+    font-size: 12px;
+}
+.time .charge-top, .charge-bottom {
+    display: flex;
+    font-size: 11px;
+}
+section.Cheackout-section .delivery-charge img {
+    width: 8px;
+    height: 8px;
+}
+section.my-card {
+    padding: 0 0 0 0px;
+    width: 100%;
+}
+section.my-card .title {
+    font-size: 14px;
+}
+section.my-card .title span {
+    font-size: 12px;
+}
+.product-left img {
+    margin-right: 7px;
+    width: 50px;
+}
+.product-right img.delete {
+    padding-left: 5px;
+}
+.product-details p span {
+    font-size: 14px;
+}
+.product-right p.old {
+    font-size: 14px;
+}
+.offer-code p {
+    font-size: 14px;
+}
+.total {
+    font-size: 14px;
+}
+
+
+}
+
+@media only screen and (min-width: 375px)  and (max-width: 576px){
+.head-top-area .header-top-left p.phone, .header-top-right a {
+    font-size: 12px;
+}
+.header-top-right .how {
+    padding: 0 5px;
+}
+.header-top-right .faq {
+    padding: 0 5px;
+}
+.body-section section.side-menu-left {
+    width: 35%;
+}
+.body-section section.side-menu-left .logo img.sub-img {
+    width: 16px;
+}
+.body-section section.side-menu-left .logo img.logo {
+    width: 70px;
+    height: 70px;
+}
+.menu-body {
+    width: 64%;
+}
+.body-section section.menu-section {
+    height: 150px;
+
+}
+.body-section .menu-section .row {
+}
+.body-section .menu-section ul {
+    display: inline-block;
+}
+.body-section .nav li {
+    padding: 0 7px;
+}
+.body-section .nav a {
+    font-size: 9px;
+}
+.body-section .search-bar input[type="text"] {
+    display: none;
+}
+.search-bar i.fas.fa-search {
+    padding: 12px;
+    margin-left: 0;
+    border-radius: 50%;
+}
+.body-section section.search-section {
+    align-items: center;
+}
+.body-section .location img{
+    width: 12px;
+}
+.body-section select#location {
+    padding: 0 0 0 0px;
+}
+.body-section .search-bar {
+    width: 50%;
+}
+.body-section .card {
+    width: 50%;
+}
+section.full-body {
+    display: inline-block;
+    width: 100%;
+}
+.time-detail {
+    display: block;
+}
+.time-detail p {
+    background: #FFE4D9;
+    padding: 5px 10px;
+    width: 98px;
+}
+section.Cheackout-section {
+    margin-bottom: 20px;
+    width: 100%;
+}
+section.Cheackout-section .title {
+    font-size: 20px;
+}
+section.Cheackout-section .address-bar, section.Cheackout-section .time-bar {
+    font-size: 12px;
+    padding: 5px 7px;
+}
+section.Cheackout-section .address-detail, section.Cheackout-section .time-detail {
+    font-size: 11px;
+}
+select#day, select#time {
+    font-size: 10px;
+    padding: 5px 5px;
+    width: 118px;
+}
+.time-detail div {
+    margin: 10px 0;
+    margin-right: 10px;
+}
+.time button {
+    font-size: 12px;
+}
+.time .charge-top, .charge-bottom {
+    display: flex;
+    font-size: 11px;
+}
+section.Cheackout-section .delivery-charge img {
+    width: 8px;
+    height: 8px;
+}
+section.my-card {
+    padding: 0 0 0 0px;
+    width: 100%;
+}
+section.my-card .title {
+    font-size: 14px;
+}
+section.my-card .title span {
+    font-size: 12px;
+}
+.product-left img {
+    margin-right: 7px;
+    width: 50px;
+}
+.product-right img.delete {
+    padding-left: 5px;
+}
+.product-details p span {
+    font-size: 14px;
+}
+.product-right p.old {
+    font-size: 14px;
+}
+.offer-code p {
+    font-size: 14px;
+}
+.total {
+    font-size: 14px;
+}
+}
+/* Mobile Layout: 375px. */
+
+@media only screen and (max-width: 375px) {
+.head-top-area {
+    height: 63px;
+}
+.head-top-area .row {
+    display: inline-block;
+}
+.head-top-area .header-top-left p.phone, .header-top-right a {
+    font-size: 12px;
+}
+.body-section .row {
+    display: inline-block;
+    width: 100%;
+}
+.body-section section.side-menu-left {
+    width: 100%;
+    box-shadow: none;
+    height: 369px;
+}
+.menu-body {
+    width: 100%;
+}
+.body-section section.menu-section {
+    height: 110px;
+}
+.body-section .menu-section .row {
+    display: inline-block;
+}
+.body-section .nav li {
+    padding: 0 7px;
+}
+.body-section .nav a {
+    font-size: 9px;
+}
+.body-section .search-bar input[type="text"] {
+    display: none;
+}
+.search-bar i.fas.fa-search {
+    padding: 12px;
+    margin-left: 0;
+    border-radius: 50%;
+}
+.body-section section.search-section {
+    align-items: center;
+}
+.body-section .search-bar {
+    width: 50%;
+}
+.body-section .card {
+    width: 50%;
+}
+section.full-body {
+    display: inline-block;
+    width: 100%;
+}
+section.Cheackout-section {
+    margin-bottom: 20px;
+    width: 100%;
+}
+section.Cheackout-section .title {
+    font-size: 20px;
+}
+section.Cheackout-section .address-bar, section.Cheackout-section .time-bar {
+    font-size: 12px;
+    padding: 5px 7px;
+}
+section.Cheackout-section .address-detail, section.Cheackout-section .time-detail {
+    font-size: 11px;
+}
+select#day, select#time {
+    font-size: 10px;
+    padding: 5px 5px;
+}
+.time-detail div {
+    margin: 10px 0;
+    margin-right: 10px;
+}
+.time button {
+    font-size: 12px;
+}
+.time .charge-top, .charge-bottom {
+    display: flex;
+    font-size: 11px;
+}
+section.Cheackout-section .delivery-charge img {
+    width: 8px;
+    height: 8px;
+}
+section.my-card {
+    padding: 0 0 0 0px;
+    width: 100%;
+}
+section.my-card .title {
+    font-size: 14px;
+}
+section.my-card .title span {
+    font-size: 12px;
+}
+.product-left img {
+    margin-right: 7px;
+    width: 50px;
+}
+.product-right img.delete {
+    padding-left: 5px;
+}
+.product-details p span {
+    font-size: 14px;
+}
+.product-right p.old {
+    font-size: 14px;
+}
+.offer-code p {
+    font-size: 14px;
+}
+.total {
+    font-size: 14px;
+}
+ }
+
+
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 375px) and (max-width: 480px) {
+.head-top-area {
+    height: 63px;
+}
+.head-top-area .row {
+    display: inline-block;
+}
+.head-top-area .header-top-left p.phone, .header-top-right a {
+    font-size: 12px;
+}
+.body-section .row {
+    display: inline-block;
+    width: 100%;
+}
+.body-section section.side-menu-left {
+    width: 100%;
+    box-shadow: none;
+    height: 369px;
+}
+.menu-body {
+    width: 100%;
+}
+.body-section section.menu-section {
+    height: 160px;
+}
+.body-section .menu-section .row {
+    display: inline-block;
+}
+.body-section .nav li {
+    padding: 0 7px;
+}
+.body-section .nav a {
+    font-size: 9px;
+}
+.body-section .search-bar input[type="text"] {
+    display: none;
+}
+.search-bar i.fas.fa-search {
+    padding: 12px;
+    margin-left: 0;
+    border-radius: 50%;
+}
+.body-section section.search-section {
+    align-items: center;
+}
+.body-section .search-bar {
+    width: 50%;
+}
+.body-section .card {
+    width: 50%;
+}
+section.full-body {
+    display: inline-block;
+    width: 100%;
+}
+section.Cheackout-section {
+    margin-bottom: 20px;
+    width: 100%;
+}
+section.Cheackout-section .title {
+    font-size: 20px;
+}
+section.Cheackout-section .address-bar, section.Cheackout-section .time-bar {
+    font-size: 12px;
+    padding: 5px 7px;
+}
+section.Cheackout-section .address-detail, section.Cheackout-section .time-detail {
+    font-size: 11px;
+}
+select#day, select#time {
+    font-size: 10px;
+    padding: 5px 5px;
+}
+.time-detail div {
+    margin: 10px 0;
+    margin-right: 10px;
+}
+.time button {
+    font-size: 12px;
+}
+.time .charge-top, .charge-bottom {
+    display: flex;
+    font-size: 11px;
+}
+section.Cheackout-section .delivery-charge img {
+    width: 8px;
+    height: 8px;
+}
+section.my-card {
+    padding: 0 0 0 0px;
+    width: 100%;
+}
+section.my-card .title {
+    font-size: 14px;
+}
+section.my-card .title span {
+    font-size: 12px;
+}
+.product-left img {
+    margin-right: 7px;
+    width: 50px;
+}
+.product-right img.delete {
+    padding-left: 5px;
+}
+.product-details p span {
+    font-size: 14px;
+}
+.product-right p.old {
+    font-size: 14px;
+}
+.offer-code p {
+    font-size: 14px;
+}
+.total {
+    font-size: 14px;
+}
+ }
+
+    
